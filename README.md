@@ -1,13 +1,8 @@
 # git-tutorial
 
-hi
-- add hello
-- add html file
-- add feature file 
+delete all detail 
 
-Add this text from pull request
+1 hi
+2 sawasdee
+3 hallo
 
-add again
-Say hi
-
-This is from dev branch
